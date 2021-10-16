@@ -1,11 +1,11 @@
 # Image Rand
 
-**Image Rand** é um programa de console capaz gera imagens de texturas em escala de cinza. 
+**Image Rand** é um programa de console capaz gerar imagens de texturas em escala de cinza. 
 As imagen são geradas e salvas em formado .pgm.
 
 Na versão atual, o programa é capaz de **gerar três tipos** diferentes de texturas.
 
-- Textutra de ruído
+- Textuta de ruído
 - Textura de linhas horizontais com 1 píxel de espessura
 - Textura de linhas horizontais com espessura definida pelo usuário
 
