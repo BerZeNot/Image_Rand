@@ -3,11 +3,11 @@
 
 void show_options(){
 	printf(" ___________________________________\n");
-	printf("|          IMAGE GENERATOR          |\n");
+	printf("|             IMAGE RAND            |\n");
 	printf("|___________________________________|\n");
 	printf("| 1 - Imagem com ruído              |\n");
 	printf("| 2 - Imagem com linhas             |\n");
-	printf("| 3 - Imagem com linhas grossas     |\n");
+	printf("| 3 - Imagem com linhas definidas   |\n");
 	printf("| 0 - Sair                          |\n");
 	printf("|___________________________________|\n");
 }
